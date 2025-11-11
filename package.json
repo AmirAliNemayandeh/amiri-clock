@@ -1,6 +1,5 @@
 {
-  "name": "amiri-clock-shop",
-  "private": true,
+  "name": "amiri-clock",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
